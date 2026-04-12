@@ -6,12 +6,16 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This workspace contains standalone, single-file browser games written in French. Each game is a self-contained HTML file with embedded CSS and JavaScript — no build tools, no dependencies, no package manager.
 
+## GitHub
+
+Repository: https://github.com/Sachalev/jeux-navigateur
+Remote: `origin` → `https://github.com/Sachalev/jeux-navigateur.git`
+
 ## Running the games
 
 Open any `.html` file directly in a browser (no server required):
 - `puissance4.html` — Connect Four (Puissance 4) with 2-player and vs-AI modes
 - `echecs.html` — Chess game (Jeu d'Échecs)
-- `puissance-4-test/index.html` — Alternate Connect Four version (has its own git history)
 
 ## Git workflow
 
